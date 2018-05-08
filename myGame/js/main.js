@@ -16,7 +16,7 @@ function preload() {
 
 var platforms;
 var player;
-var score = 0;
+var score = 1;
 var scoreText;
 
 function create() {
