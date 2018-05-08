@@ -72,7 +72,7 @@ function create() {
     game.physics.arcade.enable(player);
 
     //  gives player a bounce when hitting the ground, makes the player affected by gravity, and allows for player collision
-    player.body.bounce.y = 0.5;
+    player.body.bounce.y = 0.6;
     player.body.gravity.y = 300;
     player.body.collideWorldBounds = true;
 
