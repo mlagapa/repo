@@ -15,8 +15,6 @@ function preload() {
 // global variables
 
 var platforms;
-var player;
-var score = 1;
 var scoreText;
 
 function create() {
